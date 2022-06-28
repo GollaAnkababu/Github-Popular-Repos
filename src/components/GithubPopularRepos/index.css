@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.language-buttons {
+  list-style-type: none;
+  display: flex;
+}
+
+h1 {
+  font-family: 'Lobster';
+}
+
+.items {
+  list-style-type: none;
+  flex-wrap: wrap;
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.failure-image {
+  height: 500px;
+  width: 800px;
+}

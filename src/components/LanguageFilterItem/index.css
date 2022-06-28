@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list-item {
+  margin: 20px;
+}
+
+.button {
+  background-color: transparent;
+  border: solid 1px #0284c7;
+  color: #0284c7;
+
+  border-radius: 5px;
+}
+.button1 {
+  background-color: transparent;
+  border: none;
+  color: black;
+  font-weight: bold;
+}
